@@ -1,0 +1,21 @@
+{
+  "name": "tea-hogvards1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rediboys/tea-hogvards1.git"
+  }, "dependencies": {
+    "tea-syperquest1 ": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rediboys/tea-hogvards1/issues"
+  },
+  "homepage": "https://github.com/Rediboys/tea-hogvards1#readme"
+}
