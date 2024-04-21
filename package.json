@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Rediboys/tea-hogvards1.git"
   }, "dependencies": {
-    "tea-syperquest1 ": "1.0.0"
+    "tea-syperquest1": "1.0.0"
   },
   "author": "",
   "license": "ISC",
